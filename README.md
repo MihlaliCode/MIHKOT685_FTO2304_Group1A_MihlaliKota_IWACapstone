@@ -1,4 +1,4 @@
-# IWA19: Book Connect JavaScript Code Review and Improvement Capstone Project
+# IWA19: Book Connect JavaScript Capstone Project
 
 ### Author: Mihlali Kota
 
