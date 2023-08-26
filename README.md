@@ -1,7 +1,5 @@
 # IWA19: Book Connect JavaScript Code Review and Improvement Capstone Project
 
-## July 2023
-
 ### Author: Mihlali Kota
 
 ## Overview
